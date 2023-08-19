@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"Image3": {
+			"proto_instances": {
+			}
+		}
+	}
+}
